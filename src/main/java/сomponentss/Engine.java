@@ -9,11 +9,4 @@ public class Engine {
         this.enginesType = enginesType;
     }
 
-    @Override
-    public String toString() {
-        return "Engine{" +
-                "numberOfCylinders=" + numberOfCylinders +
-                ", enginesType=" + enginesType +
-                '}';
-    }
 }
